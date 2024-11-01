@@ -40,3 +40,8 @@ ANDROID (Termux)
 2. install python
 3. Run "pip install -r requirements.txt" 
 4. Run "python reportbot.pyc"
+
+5. <h3 align="center">Visitors Counts👀</h3>
+<a href="https://github.com/daredevilkinng/Insta-Report-Bot"><img alt="Cute Count" 
+src="https://count.getloli.com/get/@Insta-Report-Bot?theme=rule34" /></a>
+
